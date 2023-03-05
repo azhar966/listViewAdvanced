@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day22</string>
+    <string name="textview">Cristiano Ronaldo</string>
+    <string name="textview2">Portuguese footballer</string>
+    <string name="textview3">04:45 PM</string>
+    <string name="to_do_task">To Do Task</string>
+</resources>
